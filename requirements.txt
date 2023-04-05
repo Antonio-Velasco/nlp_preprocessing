@@ -1,0 +1,4 @@
+pandas
+re
+num2words
+nltk
